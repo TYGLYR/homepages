@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yanrong Lu
 
 You can use the [editor on GitHub](https://github.com/TYGLYR/homepages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
